@@ -1,5 +1,7 @@
 I am hoping u have installed go on your system , ensure by running 'go version'
 
+https://github.com/Shivam-kum-mhta/CLI/blob/main/2024-12-21-23-06-53.mp4
+
 # CLI Tool  
 ## Features  
 - Accepts parameters like project name, description, and template type (web2, web3, or AI).  
